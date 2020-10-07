@@ -1,0 +1,43 @@
+/*styling ooif card body*/
+.card-image{
+    width: 200px;
+    height: 200px;
+    border-width: 25px;
+    border-style: solid;
+    border-color: red;    
+}
+img{
+    width: 200px;
+    height: 200px;
+}
+/*styling of the card main body*/
+.card-body{
+    width: 250px;
+    height: 450px;
+    border-style: solid;
+    border-color: black;
+    margin: 50px auto;
+}
+h1{
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+h3{
+    font-family: monospace;
+    font-size: 12px;
+    text-align: center;
+}
+.class-text p{
+    font-family: serif;
+    font-size: 12px;
+    text-align: center;
+    color: red;
+}
+.card-footer{
+    background-color:#000000;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 50px;
+
+}
